@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Users\lassi\Documents\IdeaProjects\TMCProjects\mooc-2017-ohjelmointi-nodl\osa13-Osa13_09.Matopeli\nbproject\build-impl.xml:923: The following error occurred while executing this line:
+C:\Users\lassi\Documents\IdeaProjects\TMCProjects\mooc-2017-ohjelmointi-nodl\osa13-Osa13_09.Matopeli\nbproject\build-impl.xml:263: Error running javac.exe compiler
+
+Total time: 0 seconds
